@@ -145,7 +145,10 @@ body{
     padding: 0 0.3rem;
     display: flex;
     align-items: center;
-    position: relative;
+    position: fixed;
+    left: 0;
+    bottom: 1.13rem;
+    border-bottom: 0.03rem solid #cecece;
 }
 .jiesuan i{
     color: #d34843;
