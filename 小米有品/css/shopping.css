@@ -147,7 +147,7 @@ body{
     align-items: center;
     position: fixed;
     left: 0;
-    bottom: 1.13rem;
+    top:10rem;
     border-bottom: 0.03rem solid #cecece;
 }
 .jiesuan i{
