@@ -9,15 +9,18 @@ a {
 }
 
 /*头部开始*/
-.index-header {
+.index-headerr {
     width: 100%;
     height: 1.1rem;
     background: #835f3d;
     line-height: 1rem;
-    position: relative;
+   
+    position: fixed;
+    left: 0;
+    top: 0;
 }
 
-.index-header h2 {
+.index-headerr h2 {
     color: #ffffff;
     font-size: 0.36rem;
     font-weight: 200;
@@ -33,6 +36,8 @@ a {
     display: flex;
     align-items: center;
     background: #845b34;
+    margin-top: 1.1rem;
+    
 }
 .touxiang-img{
     width: 1.34rem;
